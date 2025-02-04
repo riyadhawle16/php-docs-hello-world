@@ -1,13 +1,4 @@
-<?php
-// Static PHP file for Student Portal
 
-// Simulating student data (static arrays)
-$students = [
-    ['id' => 1, 'name' => 'John Doe', 'courses' => ['Math 101', 'Science 101'], 'attendance' => ['Math 101' => 'Present', 'Science 101' => 'Absent']],
-    ['id' => 2, 'name' => 'Jane Smith', 'courses' => ['Math 101', 'History 101'], 'attendance' => ['Math 101' => 'Present', 'History 101' => 'Present']]
-];
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
